@@ -1,33 +1,37 @@
-.navbar {
-    background-color: black;
-    padding: 10px;
-}
-
-.nav {
-    margin-left: 20px;
-    list-style-type: none;
-    padding: 0;
-}
-
-.nav li {
-    display: inline-block;
-}
-
-.nav a {
-    color: white;
-    text-decoration: none;
-}
-
-nav a:hover {
-  color: red;
-}
-
-.center {
-    text-align: center;
-    top: 300px;
+.title{
+    font-size: 200px;
+    color: black;
     position: relative;
+    text-align: center;
+    top: 200px;
 }
 
-.image {
-    width: 100%;
+.giantpin{
+    width: 1000px;
+    height: 1000px;
+}
+
+.american{
+    width: 250px;
+    height: 250px;
+}
+
+.chinese{
+    width: 250px;
+    height: 250px;
+}
+
+.greek{
+    width: 250px;
+    height: 250px;
+}
+
+.italian{
+    width: 250px;
+    height: 250px;
+}
+
+image{
+    height:100%;
+    width:100%;
 }
