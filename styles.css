@@ -12,11 +12,11 @@
     background-color: lightgreen;
     border-radius: 20px;
     position: relative;
-    top: 300px;
 }
 
 .pin{
     display: inline-block;
+    text-align: center;
     width: 200px;
     margin: 10px;
     background-color: white;
@@ -28,4 +28,11 @@
 .pin img{
     width: 200px;
     border-radius: 10px;
+}
+
+.underlineforPins{
+    background-color: tan;
+    padding: 4px 10px;
+    border-radius: 6px;
+    display: inline-block;
 }
