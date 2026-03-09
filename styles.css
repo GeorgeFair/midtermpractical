@@ -6,9 +6,14 @@
     top: 200px;
 }
 
-.giantpin{
-    width: 1000px;
+.giantsquare{
+    width: 2850px;
     height: 1000px;
+    background-color: lightgreen;
+    border-radius: 20px;
+    position: relative;
+    top: 300px;
+
 }
 
 .american{
