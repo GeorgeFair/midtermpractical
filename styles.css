@@ -1,0 +1,33 @@
+.navbar {
+    background-color: black;
+    padding: 10px;
+}
+
+.nav {
+    margin-left: 20px;
+    list-style-type: none;
+    padding: 0;
+}
+
+.nav li {
+    display: inline-block;
+}
+
+.nav a {
+    color: white;
+    text-decoration: none;
+}
+
+nav a:hover {
+  color: red;
+}
+
+.center {
+    text-align: center;
+    top: 300px;
+    position: relative;
+}
+
+.image {
+    width: 100%;
+}
