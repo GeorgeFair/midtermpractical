@@ -24,3 +24,8 @@
     text-decoration: none;
     color: black;
 }
+
+.pin img{
+    width: 200px;
+    border-radius: 10px;
+}
