@@ -13,30 +13,14 @@
     border-radius: 20px;
     position: relative;
     top: 300px;
-
 }
 
-.american{
-    width: 250px;
-    height: 250px;
-}
-
-.chinese{
-    width: 250px;
-    height: 250px;
-}
-
-.greek{
-    width: 250px;
-    height: 250px;
-}
-
-.italian{
-    width: 250px;
-    height: 250px;
-}
-
-image{
-    height:100%;
-    width:100%;
+.pin{
+    display: inline-block;
+    width: 200px;
+    margin: 10px;
+    background-color: white;
+    border-radius: 10px;
+    text-decoration: none;
+    color: black;
 }
